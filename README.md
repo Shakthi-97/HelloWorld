@@ -1,4 +1,6 @@
 # HelloWorld
 Hello Its me.
-Its my new try.
+It's my new try.
 Make it good.
+What's new now.
+Get me some updates quickly
