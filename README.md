@@ -1,4 +1,4 @@
 # HelloWorld
-Hello Its me \n
-Its my new try
-Make it good
+Hello Its me.
+Its my new try.
+Make it good.
